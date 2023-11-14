@@ -10,14 +10,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -34,7 +27,8 @@
 
 ### Built With
 
-Project ini dibuat dengan bahasa pemrograman yang bervariasi dan semua ini kita buat dari awal masuk sekolah <a href="https://smkmediainformatika.sch.id">SMK MEDIA INFORMATIKA</a> sampai lulus
+Project ini dibuat dengan bahasa pemrograman yang bervariasi dan semua ini kita buat dari awal masuk sekolah
+<a href="https://smkmediainformatika.sch.id">SMK MEDIA INFORMATIKA</a> sampai lulus
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
