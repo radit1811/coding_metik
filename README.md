@@ -22,7 +22,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://smkmediainformatika.sch.id">
+  <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -43,7 +43,6 @@ Project ini dibuat dengan bahasa pemrograman yang bervariasi dan semua ini kita 
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
 * [![cpp][cpp.io]][cpp-url]
 * [![java][java.com]][java-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
@@ -68,8 +67,6 @@ Project ini dibuat dengan bahasa pemrograman yang bervariasi dan semua ini kita 
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
 [cpp.io]: https://img.shields.io/badge/C++-0769AD?style=for-the-badge&logo=c&logoColor=white
 [cpp-url]: https://en.wikipedia.org/wiki/C%2B%2B
 [java.com]: https://img.shields.io/badge/java-FF2D20?style=for-the-badge&logo=java&logoColor=white
