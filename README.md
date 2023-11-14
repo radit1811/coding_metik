@@ -73,10 +73,8 @@ Project ini dibuat dengan bahasa pemrograman yang bervariasi dan semua ini kita 
 [Vue-url]: https://vuejs.org/
 [cpp.io]: https://img.shields.io/badge/C++-0769AD?style=for-the-badge&logo=c&logoColor=white
 [cpp-url]: https://en.wikipedia.org/wiki/C%2B%2B
-[java.dev]: https://img.shields.io/badge/java-DD0031?style=for-the-badge&logo=java&logoColor=white
-[java-url]: https://java.com/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
+[java.com]: https://img.shields.io/badge/java-FF2D20?style=for-the-badge&logo=java&logoColor=white
+[java-url]: https://java.com
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
