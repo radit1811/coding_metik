@@ -45,8 +45,7 @@ Project ini dibuat dengan bahasa pemrograman yang bervariasi dan semua ini kita 
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![cpp][cpp.io]][cpp-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
+* [![java][java.com]][java-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
